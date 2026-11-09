@@ -14,7 +14,7 @@ Leverages [`@mailchannels/sdk`](https://github.com/mailchannels/mailchannels-ema
 package, the Official MailChannels Email API SDK for Node.js.
 
 - [✨ Release Notes](CHANGELOG.md)
-- [🏀 Online playground](https://stackblitz.com/github/yizack/nuxt-mailchannels?file=playground%2Fserver%27api%27send.ts)
+- [🏀 Online playground](https://stackblitz.com/github/mailchannels/nuxt-mailchannels?file=playground%2Fserver%27api%27send.ts)
 
 ## Contents
 
